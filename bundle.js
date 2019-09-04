@@ -41,6 +41,7 @@ body {
     display: grid;
     grid-template: auto / 100px auto;
     margin-bottom: 15px;
+    width: 400px;
   }
   .inputParam {
     padding: ${colors.inputParamPadding};

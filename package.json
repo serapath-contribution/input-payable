@@ -1,6 +1,6 @@
 {
   "name": "input-payable",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A payable-input-type component built with bel and csjs-inject",
   "main": "src/input-payable.js",
   "scripts": {
