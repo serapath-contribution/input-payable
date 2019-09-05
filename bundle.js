@@ -1163,6 +1163,7 @@ module.exports = function (css, options) {
 
 },{}],26:[function(require,module,exports){
 const bel = require("bel")
+const csjs = require('csjs-inject')
 
 module.exports = inputPayable
 
@@ -1203,4 +1204,4 @@ function inputPayable ({ theme: { classes: css }, label }) {
 }
 
 
-},{"bel":3}]},{},[1]);
+},{"bel":3,"csjs-inject":6}]},{},[1]);
